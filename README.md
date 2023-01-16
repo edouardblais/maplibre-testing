@@ -1,2 +1,3 @@
-# maplibre-testing
-Testing MapLibre API
+# About
+
+Just a simple react app to get used to maplibre.
